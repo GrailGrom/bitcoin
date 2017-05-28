@@ -11,7 +11,7 @@
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Скопировать выделенный адрес в буфер</translation>
+        <translation>Копировать выделенный адрес в буфер</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
